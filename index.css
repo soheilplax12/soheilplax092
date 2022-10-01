@@ -1,0 +1,13 @@
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    justify-content: center;
+}
+.margin {
+    margin: 10px;
+}
+.cover {
+    background-size: cover;
+    height: 250px;
+}
